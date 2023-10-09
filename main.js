@@ -1,2 +1,5 @@
-alert(não tem som :(');
 document.querySelector('.tecla_pom');
+
+document.querySelector('#som_tecla_pom').play('');
+
+
